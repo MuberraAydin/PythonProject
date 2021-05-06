@@ -20,3 +20,4 @@ def digital_clock():
     label.after(100, digital_clock)
 
 digital_clock()
+app_window.mainloop()
